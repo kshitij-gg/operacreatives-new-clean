@@ -1,0 +1,22 @@
+{
+  "name": "opera-creatives-clean-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "effects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx http-server -p 8080 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitij-gg/operacreatives-new-clean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kshitij-gg/operacreatives-new-clean/issues"
+  },
+  "homepage": "https://github.com/kshitij-gg/operacreatives-new-clean#readme"
+}
